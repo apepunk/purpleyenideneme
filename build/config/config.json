@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x122C26bfa5833B30BBe223E2791dB8A460C2765c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x122c26bfa5833b30bbe223e2791db8a460c2765c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Purple Ape Club",
+  "SYMBOL": "PAC",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/purple-apeclub",
+  "SHOW_BACKGROUND": true
+}
